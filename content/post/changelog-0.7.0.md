@@ -1,5 +1,5 @@
 ---
-title: "Changelog 0"
+title: "Changelog 0.7"
 date: 2018-11-01T19:43:55-04:00
 draft: false
 categories: ["changelog", "major"]
