@@ -1,7 +1,7 @@
 baseurl = "http://hakkard.devosmium.xyz"
 languageCode = "en-us"
 title = "Hakkard"
-theme = "hugo-now"
+theme = "base16"
 # Comment the themesDir option if you use this theme in production
 #themesDir = "../.."
 # google analytics
@@ -23,3 +23,4 @@ GoogleAnalytics = "UA-XXXXXX"
   # pagination
   paginate = 10
   paginatePath = "page"
+  locale = "en-US"
