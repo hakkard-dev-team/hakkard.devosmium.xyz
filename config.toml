@@ -13,7 +13,7 @@ GoogleAnalytics = "UA-XXXXXX"
 
 [params]
   description = "Official News and Resource for the Hakkard RPG World"
-  author = "Hakkard"
+  author = "Dev-Osmium"
   keywords = ["hakkard"]
   avatar = "/images/hugo.png"
   displayauthor = true
