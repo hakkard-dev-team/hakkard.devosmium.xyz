@@ -1,9 +1,10 @@
-baseurl = "http://hakkard.devosmium.xyz"
+baseurl = "http://example.org/"
 languageCode = "en-us"
-title = "Hakkard"
+title = "My New Hugo Site"
+# theme
 theme = "hugo-now"
 # Comment the themesDir option if you use this theme in production
-#themesDir = "../.."
+themesDir = "../.."
 # google analytics
 GoogleAnalytics = "UA-XXXXXX"
 
@@ -12,11 +13,11 @@ GoogleAnalytics = "UA-XXXXXX"
   tag = "tags"
 
 [params]
-  description = "Official News and Resource for the Hakkard RPG World"
-  author = "Hakkard"
-  keywords = ["hakkard"]
+  description = "Hugo port of Jekyll Now"
+  author = "Hugo Now"
+  keywords = ["hugo-now", "hugo"]
   avatar = "/images/hugo.png"
-  displayauthor = true
+  displayauthor = false
   # pygments
   PygmentsUseClasses = true
   PygmentsCodeFences = true

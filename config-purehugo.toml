@@ -1,0 +1,14 @@
+baseurl = "http://hakkard.devosmium.xyz"
+languageCode = "en-us"
+title = "Hakkard"
+theme = "purehugo"
+Paginate = 10
+disqusShortname = "xxxx"
+
+[params]
+  twitterName = ""
+  githubName = ""
+  stackOverflowId = ""
+  linkedinName = ""
+  description = "Official News and Resource for the Hakkard RPG World"
+  google_analytics = "UA-xxxxxx-xx"
