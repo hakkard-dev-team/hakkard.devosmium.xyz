@@ -1,7 +1,7 @@
 baseurl = "http://hakkard.devosmium.xyz"
 languageCode = "en-us"
 title = "Hakkard"
-theme = "base16"
+theme = "bilberry-hugo-theme"
 # Comment the themesDir option if you use this theme in production
 #themesDir = "../.."
 # google analytics
