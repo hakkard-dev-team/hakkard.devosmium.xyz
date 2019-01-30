@@ -15,4 +15,4 @@ This website serves two purposes. One is as a resource for people wanting to DM 
 ## HakkardMUD
 The MUD is a simulation of Hakkard in a text-based format. It's a lot like how D&D is played, where the game describes your surroundings, and you decide what to do. Hakkard is one of many text-based MUDs out there, with some of my favorites being [DuneMUD](http://dunemud.net) and [Sindome](https://sindome.org).
 
-You can connect to the current version of Hakkard with Telnet at [kronos.devosmium.xyz:4000](telnet://kronos.devosmium.xyz:4000). Please keep in mind that this is an alpha version, and we may be migrating to a new engine soon.
+You can connect to the current version of Hakkard with Telnet at [kronos.devosmium.xyz:4000](telnet://play.devosmium.xyz:4000). Please keep in mind that this is an alpha version, and we may be migrating to a new engine soon.
