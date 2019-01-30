@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2019-01-30T05:56:41-05:00
-draft: true
+draft: false
 excludeFromTopNav: false
 
 # set the link if you want to redirect the user.
