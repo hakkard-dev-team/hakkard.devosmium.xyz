@@ -15,7 +15,8 @@ GoogleAnalytics = "UA-XXXXXX"
   description = "Official News and Resource for the Hakkard RPG World"
   author = "Dev-Osmium"
   keywords = ["hakkard"]
-  avatar = "/images/hugo.png"
+  favicon = "favicon.ico"
+  gravatarEMail = "hakkard@devosmium.xyz"
   displayauthor = true
   # pygments
   PygmentsUseClasses = true
