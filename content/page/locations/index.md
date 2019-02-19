@@ -2,7 +2,7 @@
 title: "Locations"
 date: 2019-02-16T08:40:34-05:00
 draft: false
-excludeFromTopNav: false
+excludeFromTopNav: true
 
 # set the link if you want to redirect the user.
 link: ""
