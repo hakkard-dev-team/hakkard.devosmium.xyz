@@ -25,3 +25,4 @@ GoogleAnalytics = "UA-XXXXXX"
   paginate = 10
   paginatePath = "page"
   locale = "en-US"
+  twitter="HakkardM"
