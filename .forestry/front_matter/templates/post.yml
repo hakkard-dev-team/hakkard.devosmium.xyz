@@ -15,4 +15,5 @@ fields:
   label: Categories
   description: Folders to prepend to URLs
 pages:
+- content/page/contact.md
 - content/post/character-dive-everett-elma.md
